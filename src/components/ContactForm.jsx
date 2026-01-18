@@ -513,7 +513,7 @@ function ContactForm({ onShowToast, onShowUpload }) {
                                 />
                                 <label htmlFor="notRobot">أنا لست برنامج روبوت</label>
                                 <img
-                                    src="https://www.gstatic.com/recaptcha/api2/logo_48.png"
+                                    src="/recaptcha_logo.png"
                                     alt="reCAPTCHA"
                                     className="recaptcha-logo"
                                 />
